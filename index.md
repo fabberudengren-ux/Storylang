@@ -6,7 +6,7 @@ This privacy policy applies to the Storylang app for iOS and macOS.
 
 ## The short version
 
-ReaderApp has no accounts, no ads, no trackers and no analytics SDKs. We do not
+Storylang has no accounts, no ads, no trackers and no analytics SDKs. We do not
 sell or share any data. The only data that ever leaves your device is the text
 needed to answer your own requests (for example a word you want translated),
 and it is not stored on our servers.
@@ -52,7 +52,7 @@ data. There is nothing to sell and nothing to leak.
 
 ## Contact
 
-Questions? Email: fabbe.rudengren@gmail.com
+Questions? Email: fabian@rudengren.se
 
 ## Changes
 
