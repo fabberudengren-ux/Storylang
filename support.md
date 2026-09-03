@@ -2,7 +2,7 @@
 
 Questions, problems or ideas? Email me — I read everything:
 
-**fabbe.rudengren@gmail.com**
+**fabian@rudengren.se**
 
 Please include your device model and iOS/macOS version if you are reporting a
 problem. I usually reply within a few days.
@@ -72,6 +72,3 @@ Library; to remove a saved word, swipe it in My Words.
 
 Storylang has no accounts, no ads and no trackers. See the full
 [privacy policy](./).
-````
-
-Två detaljer: länken `[privacy policy](./)` längst ned pekar på repots startsida — den fungerar eftersom din policy ligger som `index.md` i samma repo. Och byt kontaktmejlen på båda sidorna om du hellre vill använda en dedikerad adress (t.ex. ett gratis `storylang.app@gmail.com`) — det håller supportmejl separerade från din privata inkorg när appen väl är ute.
