@@ -1,74 +1,63 @@
 # Storylang Support
 
-Questions, problems or ideas? Email me — I read everything:
+Questions, problems or ideas? Email **fabian@rudengren.se**.
+Please include your device model, app version and iOS/macOS version when reporting a problem.
 
-**fabian@rudengren.se**
+## Reading and vocabulary
 
-Please include your device model and iOS/macOS version if you are reporting a
-problem. I usually reply within a few days.
+### How do I translate and save a word?
 
----
+Press and hold a word while reading. Its translation appears in your native language and the word is saved in **My Words**. You can practise saved words there with spaced repetition. In version 1.4, practice supports either translation direction or a mixture of both, and you can choose your daily goals.
 
-## Frequently asked questions
+### Where do I find books and stories?
 
-### How do I translate a word?
-
-Press and **hold the word for about one second** while reading. A quick tap
-turns the page instead — this is intentional, so you never trigger a
-translation by accident. The translation appears in your native language,
-and the word is saved automatically to the **My Words** tab.
-
-### Where do downloaded books end up?
-
-Every book you download from the **Free Books** tab appears in the
-**Library** tab. Tap a book to start reading — your position is saved
-automatically.
+Open **Stories** for stories at your learning level. Open **Books → Browse real books** for the public-domain catalog. Books you add appear in **Books**, where you can open them and continue from your saved reading position.
 
 ### Can I read my own books?
 
-Yes. Tap the **+** button in the Library tab and pick a file. Storylang
-supports EPUB, PDF, TXT, Markdown, FB2, HTML, RTF and DOCX.
+Open **Books → Import a book** and choose a file. EPUB and PDF are supported. Availability and layout can vary with the file and app version.
 
-### How does word practice work?
+### What works offline?
 
-The **My Words** tab collects every word you have looked up. You can create
-word lists (folder icon) and move words into them. Tap **Practice** for
-flashcards with spaced repetition: words come back for review right before
-you are about to forget them. "Again" shows a word sooner, "Easy" waits
-longer.
-
-### The AI features are not responding
-
-Translations, explanations and recaps need an internet connection — reading
-itself works offline. If you are online and it still fails, wait a minute and
-try again; if the problem persists, email me.
-
-### Why does the AI say it cannot answer about later chapters?
-
-By design. The reading companion only knows the part of the book you have
-already read, so it can never spoil the story.
+Included stories, bundled recordings and content already downloaded to your device can be used offline. New translations, AI answers and newly generated speech need an internet connection. Story offline-reading options let you prepare additional content before disconnecting.
 
 ### Which languages are supported?
 
-You can set any of 20 native languages (all translations and explanations
-arrive in that language). The free book catalog is strongest in English,
-Spanish, French, German, Portuguese and Swedish — and you can import your
-own books in any language.
+Storylang offers stories in 16 study languages, from A1 to C2. You choose both the language you know and the language you are learning. The interface supports English, Swedish, Spanish, Brazilian Portuguese, French, German and Italian. Catalog availability varies by language; you can also import your own books.
 
-### How do I change languages, theme or text size?
+## Audio and purchases in version 1.4
 
-The **Settings** tab, or the gear icon while reading. The app guide can be
-replayed from **Settings → Help → Show the app guide**.
+Reading, translations, AI questions and stories, writing feedback, vocabulary practice and catalog books are free without subscription quotas. Technical rate limits still apply.
 
-### How do I delete my data?
+- **Free audio:** 3 hours of newly generated speech in total, not each month.
+- **Storylang Plus:** 10 hours of new audio per UTC calendar month, renewing at 00:00 UTC on the first day of the month.
+- **Extra time:** Plus subscribers whose allowance is exhausted can buy 10 extra hours. Purchased time does not expire and remains available after the subscription ends.
+- Replaying saved or included recordings does not consume new audio time.
 
-Everything lives on your device — there is no account and no cloud copy.
-Deleting the app deletes all data. To remove a single book, swipe it in the
-Library; to remove a saved word, swipe it in My Words.
+Local prices and renewal terms appear before purchase. Earlier app versions and historic subscriptions may show different offers.
 
----
+### How do I restore or cancel a subscription?
 
-## Privacy
+Use **Restore purchases** on the Storylang Plus screen to restore eligible purchases made with the same Apple Account. Manage or cancel subscriptions through your Apple Account's subscription settings. Deleting Storylang or deleting its optional backup account does not cancel an App Store subscription.
 
-Storylang has no accounts, no ads and no trackers. See the full
-[privacy policy](./).
+## AI, privacy and account backup
+
+### Why is an AI feature not responding?
+
+Check your internet connection and your AI permission in **Settings → Privacy**. Text you write yourself is sent through our server to Anthropic only after you allow it. Choosing **Not now** stops that request. If a request still fails, wait briefly and try again, then contact support with the error shown. Do not include passwords or private keys.
+
+### Do I need an account?
+
+No. Sign in with Apple is optional and is used for word backup. If enabled, saved words and their practice progress are stored on our server so you can restore them on another device. Your books and stories are not part of that backup.
+
+### How do I delete my backup or local data?
+
+To delete your optional server account and word backup, open **Settings → Account → Back up your words → Delete account** and follow the confirmation steps. Apple may ask you to authenticate again. This signs out your devices and deletes the server backup; it does not delete words already stored on your device.
+
+Deleting the app does not delete an existing server backup. Delete the backup account in the app first if you want to remove it. Books and saved words can also be removed individually in the app. Purchase records and audio allowances are separate from word backup; contact support if you need help with them.
+
+### Does Storylang use analytics or advertising measurement?
+
+Storylang shows no ads inside the app. Optional usage analytics can be turned off in **Settings → Privacy**. On iOS, TikTok app-event measurement runs only if you allow tracking when iOS asks. Change that permission in **iOS Settings → Privacy & Security → Tracking**. AI features use Anthropic, generated speech uses ElevenLabs, and our backend is hosted by Cloudflare.
+
+See the [current privacy policy](https://reader-app-backend.readerapp.workers.dev/privacy) for the full data, retention and deletion details.
