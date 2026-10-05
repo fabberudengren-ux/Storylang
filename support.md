@@ -11,28 +11,28 @@ Press and hold a word while reading. Its translation appears in your native lang
 
 ### Where do I find books and stories?
 
-Open **Stories** for stories at your learning level. Open **Books → Browse real books** for the public-domain catalog. Books you add appear in **Books**, where you can open them and continue from your saved reading position.
+Open **Stories** for stories at your learning level. In version 1.4, **Books** is for your own imported files; the public-domain book catalog has been removed. Imported files appear in **Books**, where you can continue from your saved reading position. Earlier versions may still show the old catalog.
 
 ### Can I read my own books?
 
-Open **Books → Import a book** and choose a file. EPUB and PDF are supported. Availability and layout can vary with the file and app version.
+Open **Books** and use the file import button to choose a file. Supported formats include EPUB, PDF, TXT, Markdown, HTML, RTF, DOCX, ODT, SRT and VTT. ZIP archives can contain supported files. Reading your own imported files is free. Listening to imported files requires active Plus, including replaying saved audio; legacy Premium access is also recognized. Layout can vary with the source file.
 
 ### What works offline?
 
-Included stories, bundled recordings and content already downloaded to your device can be used offline. New translations, AI answers and newly generated speech need an internet connection. Story offline-reading options let you prepare additional content before disconnecting.
+Included stories, bundled recordings and content already downloaded to your device can be used offline. New translations, AI answers and newly generated speech need an internet connection. In version 1.4, all 480 included stories have prepared recordings available to download. The five visible stories prefetch their recordings. Let downloads finish before disconnecting; audio that has not been downloaded still needs internet.
 
 ### Which languages are supported?
 
-Storylang offers stories in 16 study languages, from A1 to C2. You choose both the language you know and the language you are learning. The interface supports English, Swedish, Spanish, Brazilian Portuguese, French, German and Italian. Catalog availability varies by language; you can also import your own books.
+Storylang offers stories in 16 study languages, from A1 to C2. You choose both the language you know and the language you are learning. The interface supports English, Swedish, Spanish, Brazilian Portuguese, French, German and Italian. You can also import your own files.
 
 ## Audio and purchases in version 1.4
 
-Reading, translations, AI questions and stories, writing feedback, vocabulary practice and catalog books are free without subscription quotas. Technical rate limits still apply.
+Reading, translations, AI questions and stories, writing feedback, vocabulary practice and reading your own imported files are free without subscription quotas. Technical rate limits still apply.
 
 - **Free audio:** 3 hours of newly generated speech in total, not each month.
 - **Storylang Plus:** 10 hours of new audio per UTC calendar month, renewing at 00:00 UTC on the first day of the month.
 - **Extra time:** Plus subscribers whose allowance is exhausted can buy 10 extra hours. Purchased time does not expire and remains available after the subscription ends.
-- Replaying saved or included recordings does not consume new audio time.
+- Replaying saved or included recordings does not consume new audio time. Listening to imported files still requires an active Plus subscription, even when their audio is already saved.
 
 Local prices and renewal terms appear before purchase. Earlier app versions and historic subscriptions may show different offers.
 
